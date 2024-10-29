@@ -1,11 +1,7 @@
 
 # Computer Vision labs
 
-<<<<<<< HEAD
 This repository contains a collection of laboratory exercises for my university course in **Computer Vision**. Each lab explores key concepts and techniques in computer vision, implemented using **Python 3.10** and **OpenCV**.
-=======
-This repository contains a collection of laboratory exercises for my university course in **Computer Vision**. Each lab explores key concepts and techniques in computer vision, implemented using **Python** and **OpenCV**.
->>>>>>> 1f2c6b12ed21c9397d021e959048fe367dd2cddd
 
 ## Introduction
 
